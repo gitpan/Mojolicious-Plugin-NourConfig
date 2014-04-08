@@ -32,7 +32,7 @@ no_index:
 provides:
   Mojolicious::Plugin::NourConfig:
     file: lib/Mojolicious/Plugin/NourConfig.pm
-    version: '0.02'
+    version: '0.03'
 requires:
   Mojo::Base: '0'
   Nour::Config: '0'
@@ -41,7 +41,7 @@ resources:
   bugtracker: https://github.com/sharabash/mojolicious-plugin-nourconfig/issues
   homepage: https://metacpan.org/release/Mojolicious-Plugin-NourConfig
   repository: git://github.com/sharabash/mojolicious-plugin-nourconfig.git
-version: '0.02'
+version: '0.03'
 x_authority: cpan:AMIRITE
 x_contributors:
   - 'Nour Sharabash <nour.sharabash@gmail.com>'
